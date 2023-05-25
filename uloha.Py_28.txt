@@ -1,0 +1,14 @@
+No. V tabuľke „chyba.xlsx“ sú zakódované nejaké neznáme informácie v dvojkovej sústave.
+Pri prenose informácií sa používajú v kódovaní aj nadbytočné informácie, ktoré pomáhajú zistiť isté množstvo chýb pri prenose, prípadne ich opraviť.
+V tabuľke sú k jednotlivým riadkom a stĺpcom doplnené aj tzv. paritné bity (8. stĺpec a 8. riadok).
+Paritný bit v riadku obsahuje nulu alebo jednotku doplnenú tak, aby počet jednotiek v riadku bol párny. Zvoľte postup (algoritmus) ako overiť správnosť kódu včítane paritného stĺpca a riadku.
+
+Súbor   “chyba.xlsx”   obsahuje :
+10101001
+01101010
+00011110
+00111001
+01001001
+10111001
+01101010
+01101001

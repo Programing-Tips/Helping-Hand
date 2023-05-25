@@ -1,0 +1,2 @@
+V lotérijných sázkach býva aj výhra Jackpot. Navrhnite algoritmus riešenia náhodného výberu čísiel, tieto sa môžu opakovať, pre aspoňštvormiestny Jackpot.
+Súčasťou bude aj možný tip a vyhodnotenie. Úroveň správnosti tipu je daná zhodou číslic sprava.

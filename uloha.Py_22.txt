@@ -1,0 +1,4 @@
+Prečítam zadané číslo
+cifry v jednotlivých pozíciách vynásobím 2^x podľa prislúchajúcej pozície.
+Nasledne cisla scitam.
+Takže napr. 101- 1*2^0 + 0*2^1 + 1*2^2= 5
