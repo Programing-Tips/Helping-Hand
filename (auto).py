@@ -20,7 +20,7 @@ R = 20
 x = 510
 y = 430
 
-car_image = tk.PhotoImage(file=r'C:\Users\danko\Pictures\uloha.gif')
+car_image = tk.PhotoImage(file=r'Adresa obrazku')
 car = c.create_image(x - R, y -R, image = car_image, anchor=tk.NW)
 
 dx =  10
