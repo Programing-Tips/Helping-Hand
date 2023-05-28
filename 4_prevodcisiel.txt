@@ -1,0 +1,6 @@
+1. zacni sprava
+2. premen hodnotu pismena na cislovku
+3. posun sa o cislo dolava a sprav to iste
+4. ak je hodnota cisla mensia ako cislo vpravo, tak túto hodnotu odčítaj, ak je vacsia tak scitaj
+5. posun sa o cislo vlavo a urob to iste
+6. toto opakuj az kym neprejdes vsetky pismena
