@@ -12,5 +12,3 @@ while body < 10:
         body+= 1
     else:
         list = [(x,y)] + list
-
-#vytvorim si list s 10 prikladma potom ich idem hadat odpovedi ked uhodnem dostanem bod ked ne priklad sa vrati spatky do seznamu a dostanem ho na konci
